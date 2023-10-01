@@ -1,1 +1,1 @@
-# GitHubAssignment
+# GitHub Practice Assignment
